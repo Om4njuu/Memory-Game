@@ -23,7 +23,7 @@ To get started with the Memory Game, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/om4njuu/memory-game.git
+   git clone https://github.com/Om4njuu/memory-game.git
 
 2. **Navigate to the Project Directory**:
   
