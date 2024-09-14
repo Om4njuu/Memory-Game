@@ -5,7 +5,7 @@
 The Memory Game is a classic card-matching game implemented with JavaScript, HTML, and CSS. The goal is to match pairs of cards by flipping them over. This game includes features like dynamic difficulty, responsive design, and a restart button. It’s a great way to practice JavaScript and DOM manipulation skills.
 
 ## Demo
-
+**Recommend playing on PC**
 https://om4njuu.github.io/Memory-Game/
 
 ## Features
