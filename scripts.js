@@ -2,7 +2,7 @@ const gameBoard = document.querySelector('.game-board');
 const restartButton = document.getElementById('restart');
 
 const icons = ['🍎', '🍌', '🍒', '🍇', '🍉', '🍓', '🍍', '🥭'];
-let cards = [...icons, ...icons]; // Duplicate icons for matching pairs
+let cards = [...icons, ...icons];
 
 let firstCard, secondCard;
 let lockBoard = false;
